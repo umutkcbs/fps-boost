@@ -1,5 +1,5 @@
 # fps-boost
-Düşük kare hızındaki videolarınızı 60 FPS kare hızına çıkartır.
+Düşük kare hızındaki videolarınızı 60 FPS kare hızına çıkartır.\n
 En iyi farkı görmek için mutlaka düşük kare hızlı videolar kullanın.
 İlk seferde olmaz ise oluşan dosyayı tekrar işlemden geçirebilirsiniz. (Bunun için out klasörünü silmelisiniz.).
 
