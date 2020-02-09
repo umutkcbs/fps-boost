@@ -1,5 +1,5 @@
 # fps-boost
-Düşük kare hızındaki videolarınızı 60 FPS kare hızına çıkartır.\n
+Düşük kare hızındaki videolarınızı 60 FPS kare hızına çıkartır.
 En iyi farkı görmek için mutlaka düşük kare hızlı videolar kullanın.
 İlk seferde olmaz ise oluşan dosyayı tekrar işlemden geçirebilirsiniz. (Bunun için out klasörünü silmelisiniz.).
 
@@ -12,7 +12,7 @@ Ardından sırası ile "1.py, 2.py, 3.py, 4.py" dosyalarını çalıştırın.
 ------------------------------------
 
 Always use low frame rate videos to see the best difference.
-If it does not happen the first time, you can process the resulting file again. (You must delete the "out" folder for this.).
+If it does not happen the first time, you can process the resulting file again. (You must delete the "out" folder for this).
 
 Set your file name to "input.mp4".
 Run "1.py, 2.py, 3.py, 4.py" files.
