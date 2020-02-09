@@ -1,0 +1,6 @@
+Set your file name to "input.mp4"
+Run "1.py, 2.py, 3.py, 4.py" files
+Rename "akici.mp4" to "input.mp4" and delete "out" folder
+Run .py files again and "akici.py" is now 60 FPS
+
+Sorry for bad english

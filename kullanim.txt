@@ -1,0 +1,4 @@
+İşlenecek dosyanın ismini "input.mp4" olacak şekilde ayarlayın
+Ardından sırası ile "1.py, 2.py, 3.py, 4.py" dosyalarını çalıştırın
+"akici.mp4" dosyasının ismini "input.mp4" yapın ve oluşan "out" klasörünü silin
+.py dosyalarını tekrar çalıştırın ardından oluşacak "akici.py" 60 FPS kare hızına çıkmış olacaktır.
